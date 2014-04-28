@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57208B3B-ED39-4821-B5A0-0757A5F443CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HapticGeneration</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>851161CE-3E54-43AD-98D1-A1A1D6BFC3B9</key>
+		<string>ssh://bitbucket.org/bizarmobile/snakk-hapticgeneration-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HapticGeneration.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>851161CE-3E54-43AD-98D1-A1A1D6BFC3B9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://bitbucket.org/bizarmobile/snakk-hapticgeneration-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>851161CE-3E54-43AD-98D1-A1A1D6BFC3B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>851161CE-3E54-43AD-98D1-A1A1D6BFC3B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>snakk-haptic-ios-git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
